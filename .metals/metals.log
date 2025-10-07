@@ -1,0 +1,30 @@
+2025.10.07 09:01:22 INFO  Started: Metals version 1.6.2 in folders '/home/sylvain-huang/Documents/PF' for client Visual Studio Code 1.104.1.
+2025.10.07 09:01:27 INFO  Attempting to connect to the build server...
+2025.10.07 09:01:27 INFO  Found a Bloop server running
+2025.10.07 09:01:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sylvain-huang/Documents/PF/.metals/bsp.trace.json or /home/sylvain-huang/.cache/metals/bsp.trace.json
+2025.10.07 09:01:27 INFO  time: Connected to build server in 0.67s
+2025.10.07 09:01:27 INFO  Connected to Build server: Bloop v2.0.13
+2025.10.07 09:01:27 INFO  Created report: Optional.empty
+2025.10.07 09:01:27 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/sylvain-huang/Documents/PF/.metals/.reports/bloop/2025-10-07/r_Empty build targets...._09-01-27-921.md")
+2025.10.07 09:01:27 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/sylvain-huang/Documents/PF/.metals/.reports/bloop/2025-10-07/r_Empty build targets...._09-01-27-921.md")
+2025.10.07 09:01:27 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/sylvain-huang/Documents/PF/.metals/.reports/bloop/2025-10-07/r_Empty build targets...._09-01-27-921.md")
+2025.10.07 09:01:27 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/sylvain-huang/Documents/PF/.metals/.reports/bloop/2025-10-07/r_Empty build targets...._09-01-27-921.md")
+2025.10.07 09:01:27 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "/home/sylvain-huang/Documents/PF/.metals/.reports/bloop/2025-10-07/r_Empty build targets...._09-01-27-921.md")
+2025.10.07 09:01:28 INFO  time: Imported build in 0.26s
+2025.10.07 09:01:32 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2025.10.07 09:01:32 INFO  time: indexed workspace in 3.95s
+Oct 07, 2025 9:02:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.10.07 09:03:12 INFO  Disconnecting from Bloop session...
+2025.10.07 09:03:12 INFO  Shut down connection with build server.
+2025.10.07 09:03:13 INFO  Attempting to connect to the build server...
+2025.10.07 09:03:13 INFO  No build server found
+2025.10.07 09:03:12 INFO  time: Connected to build server in 2ms
+2025.10.07 09:03:14 INFO  compilation cancelled
+2025.10.07 09:04:03 WARN  no build tool detected in workspace '/home/sylvain-huang/Documents/PF'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.10.07 09:04:03 WARN  Build server is not auto-connectable.
+2025.10.07 09:04:05 INFO  compilation cancelled
+2025.10.07 09:04:14 WARN  Build server is not auto-connectable.
+2025.10.07 09:07:53 INFO  Shutting down server
+2025.10.07 09:07:53 INFO  shutting down Metals
+2025.10.07 09:07:53 INFO  Exiting server

@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/scala_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/example/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/Td1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/Td1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/Td1$Information$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/Td1$Information$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/Td1$Information.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/Td1$Information.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/Td1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/Td1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/Td1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/Td1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TD1/test.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sylvain-huang/Documents/PF/TD1/target/scala-3.4.2/classes/TD1/test.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

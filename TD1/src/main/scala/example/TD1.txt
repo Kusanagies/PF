@@ -1,0 +1,9 @@
+informationTag(is: L[Info],t:$) : L[Info] = ???
+
+foo L[A] -> (A -> B) -> L[A]
+filter L[A] |-> (A -> B) -> L[A] //On se rend compte qu'on doit utiliser filter
+donc 
+    =>  L[Info] |-> (Info -> B) -> L[Info] 
+
+Infos.filter(info => info.tag.contains(t))
+[X] I => B ssi L[$] == L[X] 

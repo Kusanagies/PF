@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/sylvain-huang/Documents/PF/TD1/src/main/scala/example/TD1.scala:78:25 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m78 |[0m        [33mval[0m [36mfranceInfo[0m = informationCountry(informations,[31m"France"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                         ^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m       Not found: informationCountry - did you mean informationsCountry?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
